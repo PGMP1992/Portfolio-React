@@ -142,3 +142,4 @@ node_modules/@babel/types/lib/definitions/misc.js
 node_modules/axobject-query/lib/etc/objects/TableRole.js
 node_modules/eslint-plugin-jsx-a11y/docs/rules/no-onchange.md
 node_modules/typescript/lib/tsserver.js
+node_modules/.package-lock.json
