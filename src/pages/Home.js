@@ -9,9 +9,9 @@ export default function Home() {
         */}
         <section>
         <nav>
-            <img src = "images\pedro.jpg" alt="Pedro Martinez"></img>
-        </nav>
+                    </nav>
         <article>
+            <img src = "images\pedro.jpg" alt="Pedro Martinez"></img>
             <p>Web, Desktop and Back End Software Developer</p>
             <a href=".\images\pedro.docx" download>Download Resume</a>
         </article>
