@@ -10,15 +10,10 @@ export default function About() {
       
         <div class="row">
             <h3>Skills</h3>
-          
             <p>Front End - HTML, CSS and Javascript</p>
-            
             <p>C#, Pascal and C++ </p>
-            
             <p>React</p>
-            
             <p>Back End SQL - MS Sql, Oracle and MySQL </p>
-            
         </div>
         
         <div id="cv">
